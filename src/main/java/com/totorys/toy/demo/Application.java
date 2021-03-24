@@ -52,8 +52,7 @@ import java.util.Properties;
  *     4. "Program arguments"
  *
  *
- *     [참고]
- *     프로퍼티 우선 순위
+ *     [참고] 프로퍼티 우선 순위
  *     1. 유저 홈 디렉토리에 있는 spring-boot-dev-tools.properties
  *     2. 테스트에 있는 @TestPropertySource
  *     3. @SpringBootTest 애노테이션의 properties 애트리뷰트
